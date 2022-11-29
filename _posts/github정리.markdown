@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2022-11-29 23:20:26 +0900
 categories: jekyll update
+comments: true
 ---
 현재 Git 상태 확인
 {% highlight ruby %}
